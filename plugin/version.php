@@ -17,13 +17,13 @@
 /**
  * Email processor version information
  *
- * @package    emailreplyto_redux
+ * @package    message_pageone
  * @copyright  2008 Luis Rodrigues
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2024040300;        // The current plugin version (Date: YYYYMMDDXX).
+$plugin->version   = 2023042404;        // The current plugin version (Date: YYYYMMDDXX).
 $plugin->requires  = 2023041800;        // Requires this Moodle version.
-$plugin->component = 'emailreplyto_redux';  // Full name of the plugin (used for diagnostics)
+$plugin->component = 'message_pageone';  // Full name of the plugin (used for diagnostics)
