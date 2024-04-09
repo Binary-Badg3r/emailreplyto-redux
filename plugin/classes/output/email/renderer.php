@@ -22,7 +22,7 @@
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-namespace message_pageone\output\email;
+namespace message_emailreply\output\email;
 
 defined('MOODLE_INTERNAL') || die();
 
@@ -33,7 +33,7 @@ defined('MOODLE_INTERNAL') || die();
  * @copyright  2019 Mark Nelson <markn@moodle.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-class renderer extends \message_pageone\output\renderer {
+class renderer extends \message_emailreply\output\renderer {
 
     /**
      * The template name for this renderer.

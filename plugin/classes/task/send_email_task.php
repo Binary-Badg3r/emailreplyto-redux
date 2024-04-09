@@ -21,7 +21,7 @@
  * @copyright  2019 Mark Nelson <markn@moodle.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-namespace message_pageone\task;
+namespace message_emailreply\task;
 
 use core\task\scheduled_task;
 use moodle_recordset;

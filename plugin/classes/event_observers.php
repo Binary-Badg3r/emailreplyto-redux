@@ -22,7 +22,7 @@
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-namespace message_pageone;
+namespace message_emailreply;
 
 defined('MOODLE_INTERNAL') || die();
 
